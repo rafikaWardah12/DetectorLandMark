@@ -1,4 +1,4 @@
-# DetertorLandMark
+# Detector LandMark
 Aplikasi ini dirancang untuk melakukan riset mengenai hasil deteksi gambar yang ada di wilayah eropa secara live dengan menggunakan model machine learning Klasifikasi Gambar. Model yang telah dikonversi ke format TFlite dapat ditemukan di folder app -> src -> main -> assets -> landmark.tflite.
 
 ## Cara Clone
